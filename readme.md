@@ -112,9 +112,11 @@ lib/
 
 ## 📸 Screenshots
 
-![Home Screen](assets/screenshot/home_screen.png)
-![Detail Screen](assets/screenshot/detail_screen.png)
-![Cart Screen](assets/screenshot/cart_screen.png)
+| Screen         | Preview                                      |
+|----------------|----------------------------------------------|
+| Home Screen    | ![Home Screen](assets/screenshot/home_screen.png)   |
+| Detail Screen  | ![Detail Screen](assets/screenshot/detail_screen.png) |
+| Cart Screen    | ![Cart Screen](assets/screenshot/cart_screen.png)     |
 
 ## 🔄 Data Source & Preprocessing
 
@@ -151,7 +153,7 @@ lib/
 
    ```bash
    # Clone the repository
-   git clone https://github.com/yourusername/freshcart.git
+   git clone https://github.com/rizky28eka/freshcart.git
 
    # Navigate to project directory
    cd freshcart
